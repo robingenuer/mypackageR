@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mypackageR MODIF is to …
+The goal of mypackageR MODIF2 is to …
 
 ## Installation
 
