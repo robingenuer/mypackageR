@@ -4,6 +4,8 @@
 # mypackageR
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/robingenuer/mypackageR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/robingenuer/mypackageR/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of mypackageR MODIF3 is to …
